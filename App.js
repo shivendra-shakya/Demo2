@@ -5,7 +5,7 @@ var b=8
 var c= a+b
 console.log("Sum is : ", c)
 console.log(`Sum is :  ${c}` )  
-// in curli braces ypu can write any js code
+// in curli braces you can write any js code
 
 //we import the module from file modules.js
 var calc = require('./modules.js')
